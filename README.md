@@ -1,3 +1,10 @@
+[![Add to Cursor](https://fastmcp.me/badges/cursor_dark.svg)](https://fastmcp.me/MCP/Details/1732/kevodb-mcp-server)
+[![Add to VS Code](https://fastmcp.me/badges/vscode_dark.svg)](https://fastmcp.me/MCP/Details/1732/kevodb-mcp-server)
+[![Add to Claude](https://fastmcp.me/badges/claude_dark.svg)](https://fastmcp.me/MCP/Details/1732/kevodb-mcp-server)
+[![Add to ChatGPT](https://fastmcp.me/badges/chatgpt_dark.svg)](https://fastmcp.me/MCP/Details/1732/kevodb-mcp-server)
+[![Add to Codex](https://fastmcp.me/badges/codex_dark.svg)](https://fastmcp.me/MCP/Details/1732/kevodb-mcp-server)
+[![Add to Gemini](https://fastmcp.me/badges/gemini_dark.svg)](https://fastmcp.me/MCP/Details/1732/kevodb-mcp-server)
+
 # KevoDB MCP Server
 
 This project implements a [MCP (Multimodal Communication Protocol)](https://gofastmcp.com/) server for [KevoDB](https://github.com/KevoDB/kevo), allowing AI agents to interact with KevoDB using a standardized API.
